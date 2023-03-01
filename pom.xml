@@ -6,7 +6,7 @@
   <groupId>capgemini</groupId>
   <artifactId>sivakumar</artifactId>
   <packaging>pom</packaging>
-  <version>1992-SNAPSHOT</version>
+  <version>1992-RELEASE</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
